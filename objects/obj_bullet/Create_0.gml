@@ -1,0 +1,16 @@
+grazed = false;
+grazed_time = 0;
+grazed_taser = false;
+shape = "small_circle";
+state = "move";
+timer = 0;
+reflect = 0;
+spin_timer = 0;
+countdown = 0;
+original_spd = 0;
+accel = 0;
+next_state = "attack";
+aim_timer = 0;
+accel_cap = 0;
+acc = 0;
+times = 0;
