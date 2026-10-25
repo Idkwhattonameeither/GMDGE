@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_bomb_extend",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":2,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.5263038,
+  "exportDir":"",
+  "name":"sfx_bomb_extend",
+  "parent":{
+    "name":"GMDGE (GameMaker Danmaku Game Engine)",
+    "path":"GMDGE (GameMaker Danmaku Game Engine).yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_bomb_extend.wav",
+  "volume":1.0,
+}
